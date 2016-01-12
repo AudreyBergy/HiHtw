@@ -1,0 +1,30 @@
+.wrapper {
+background: white;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 50px;
+}
+
+.header {
+  width:800px;
+  height:250;
+  background-color: #2E9AFE;
+  margin-top: 20px;
+  margin-bottom: 80px;
+
+}
+
+.body {background-color: #e3e3e3;}
+
+body h1, h2, h3, li, p, a {font-family: sans-serif}
+body div h2, h1 {color: white;
+            text-align: center;
+
+}
+
+body div div img {padding-top: 5px;
+  text-align: center;}
+
+.part1 strong{display:inline-block;
+width:200px; }
